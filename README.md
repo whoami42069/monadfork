@@ -4,7 +4,7 @@ Complete guide to build the Monad blockchain from source using Docker.
 
 ## Quick Start
 
-Follow the step-by-step instructions in [`howto(aiwillreadthis).md`](./howto(aiwillreadthis).md) to build Monad in ~8 minutes.
+Follow the step-by-step instructions in [`howto(aiwillreadthis).md`](./howto(aiwillreadthis).md) to build Monad in ~8 minutes (probably longer).
 
 ## Progress Tracking
 
