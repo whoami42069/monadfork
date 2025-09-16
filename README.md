@@ -32,7 +32,7 @@ Source: https://github.com/whoami42069/monadfork
 ✅ Binary at `/monad/build/cmd/monad` (~160MB)
 ✅ 641/641 files compiled
 ✅ All tests passing
-✅ Build time ~8 minutes
+✅ Build time ~8 minutes (just kiddin probably longer)
 
 ---
 
